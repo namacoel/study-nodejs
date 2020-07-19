@@ -1,0 +1,2 @@
+create database excercise; // DB생성
+show databases; // DB 조회
